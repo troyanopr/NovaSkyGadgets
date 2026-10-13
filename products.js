@@ -1,0 +1,18 @@
+/*
+CATÁLOGO INICIAL NOVAGADGETS — EDITABLE
+Antes de publicar:
+1) Crea enlaces especiales en Amazon Associates Central.
+2) Sustituye cada affiliateUrl por TU enlace especial completo (con tu tracking ID).
+3) No uses enlaces de búsqueda ni amazon.com como sustituto permanente de enlaces especiales.
+4) Las descripciones son texto editorial original; verifica el modelo y compatibilidad en Amazon antes de publicarlo.
+*/
+const products = [
+ {title:"Anker 735 Charger (GaNPrime 65W)",description:"Cargador compacto multipuerto para usuarios que quieren alimentar dispositivos compatibles desde un solo accesorio. Comprueba potencia, puertos y compatibilidad del equipo.",category:"carga",icon:"ϟ",tag:"CARGA USB-C",model:"Anker 735 Charger GaNPrime 65W",affiliateUrl:"https://www.amazon.com/s?k=Anker+735+Charger+GaNPrime+65W"},
+ {title:"Anker Power Bank 20,000 mAh",description:"Batería portátil para viajes y días fuera de casa. Revisa capacidad, potencia de salida, puertos y restricciones de equipaje antes de elegir.",category:"carga",icon:"▰",tag:"ENERGÍA PORTÁTIL",model:"Anker power bank 20000mAh",affiliateUrl:"https://www.amazon.com/s?k=Anker+power+bank+20000mAh"},
+ {title:"TP-Link Kasa Smart Plug Mini",description:"Enchufe inteligente para controlar dispositivos compatibles y crear rutinas. Verifica el modelo exacto, la carga eléctrica permitida y la compatibilidad de red.",category:"smart",icon:"⌂",tag:"HOGAR INTELIGENTE",model:"TP-Link Kasa Smart Plug Mini",affiliateUrl:"https://www.amazon.com/s?k=TP-Link+Kasa+Smart+Plug+Mini"},
+ {title:"Philips Hue White and Color Ambiance",description:"Bombilla inteligente para ajustar el ambiente de iluminación. Comprueba tipo de base, sistema Hue, conectividad y si necesitas un Hue Bridge.",category:"smart",icon:"☼",tag:"ILUMINACIÓN",model:"Philips Hue White and Color Ambiance A19",affiliateUrl:"https://www.amazon.com/s?k=Philips+Hue+White+and+Color+Ambiance+A19"},
+ {title:"Logitech MX Master 3S",description:"Ratón inalámbrico orientado a productividad, con controles personalizables. Revisa compatibilidad con tu sistema operativo y tus preferencias de tamaño.",category:"gadgets",icon:"◈",tag:"PRODUCTIVIDAD",model:"Logitech MX Master 3S",affiliateUrl:"https://www.amazon.com/s?k=Logitech+MX+Master+3S"},
+ {title:"Soundcore Liberty 4 NC",description:"Audífonos inalámbricos para escuchar audio durante el trabajo o los viajes. Compara ajuste, controles, autonomía anunciada y funciones disponibles en el modelo.",category:"gadgets",icon:"◖))",tag:"AUDIO",model:"Soundcore Liberty 4 NC",affiliateUrl:"https://www.amazon.com/s?k=Soundcore+Liberty+4+NC"},
+ {title:"Klein Tools MM325 Multímetro digital",description:"Instrumento para mediciones eléctricas dentro de sus especificaciones. Úsalo solo para tareas y categorías de medición para las que esté clasificado, siguiendo el manual y las prácticas de seguridad.",category:"herramientas",icon:"⌁",tag:"MEDICIÓN",model:"Klein Tools MM325",affiliateUrl:"https://www.amazon.com/s?k=Klein+Tools+MM325"},
+ {title:"Klein Tools NCVT-3P Probador de voltaje",description:"Probador sin contacto para comprobaciones preliminares en aplicaciones compatibles. No sustituye procedimientos de seguridad ni confirma por sí solo que un circuito sea seguro.",category:"herramientas",icon:"ϟ",tag:"SEGURIDAD ELÉCTRICA",model:"Klein Tools NCVT-3P",affiliateUrl:"https://www.amazon.com/s?k=Klein+Tools+NCVT-3P"}
+];
